@@ -220,7 +220,7 @@
 
 .brand-span {
   font-size: 14px;
-  color: #c18f59; }
+  color: gold; }
 
 .brand-button {
   display: inline-block;
@@ -228,7 +228,7 @@
   font-size: 11px;
   text-transform: uppercase;
   text-decoration: none;
-  color: #c18f59;
+  color: #f58002;
   border: 1px solid #fff;
   transition: 0.3s ease; }
   .brand-button:hover, .brand-button:focus {
@@ -246,7 +246,7 @@
 
 .about-me-bckg {
   position: absolute;
-  /* background-image: url("../images/about-me-bckg.jpg"); */
+  background-image: url("../../assets/images/homebg.jpg");
   background-position: center;
   background-size: cover;
   height: 500px;
@@ -330,7 +330,7 @@
     .portfolio-wrapper .portfolio__name span {
       font-size: 90px;
       line-height: 75px;
-      color: #c18f59;
+      color:gold;
       font-family: "Calisto-MT-Bold"; }
       @media (max-width: 992px) {
         .portfolio-wrapper .portfolio__name span {
@@ -363,7 +363,7 @@
   .about-me__text p {
     margin-bottom: 35px;
     line-height: 24px;
-    color: #c18f59; }
+    color:rgb(255, 255, 255); }
     .about-me__text p span {
       font-size: 48px;
       color: #fff; }
